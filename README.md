@@ -38,6 +38,7 @@ Put the URL into your tab and Login if asked, select the server and keep confirm
 
 ## Using the Template
 
+First off make the **.env** file and copy the things from the [.env.example](.env.example) to it
 Simply copy and paste or rewrite from the Template. If you need help contact me.
 The files should be quite heavily commented. Now I don't want your code to be looking over commented, I did it to really explain everything.
 
